@@ -1,1 +1,2 @@
-working direcoryto the user's home directory
+#!/bin/bash\npwd
+cd ~
