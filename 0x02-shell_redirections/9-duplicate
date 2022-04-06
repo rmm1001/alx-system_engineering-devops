@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n l iacas | >> iacta
+tail -l iacas >> iacta
